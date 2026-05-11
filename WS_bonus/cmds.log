@@ -1,0 +1,34 @@
+    1  wsl --update
+    2  sudo apt update
+    3  sudo apt install git build-essential qemu-system-misc gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu
+    4  cd ~
+    5  mkdir cs149
+    6  cd cs149
+    7  git init
+    8  git remote add origin https"//github.com/CaffeineNinja13/cs149.git
+    9  git remote add origin https://github.com/CaffeineNinja13/cs149.git
+   10  cd ~
+   11  mkdir cs149
+   12  cd cs149
+   13  git remote add origin https://github.com/CaffeineNinja13/cs149.git
+   14  mkdir WS_bonus
+   15  cd WS_bonus
+   16  wget -o out.pdf https://tinyurl.com/yy94jltt
+   17  history > cmds.log
+   18  cd ~/cs149
+   19  git add .
+   20  git commit -m "First commit"
+   21  git config --global user.email "youremail@gmail.com"
+   22  git config --global user.name "Your Name"
+   23  git config --global user.email "harisowmithreddy.vedanaprthi@sjsu.edu"
+   24  git config --global user.name "CaffeineNinja13"
+   25  cd ~
+   26  mkdie cs149
+   27  mkdir cs149
+   28  cd cs149
+   29  git init
+   30  git remote add origin https://github.com/CaffeineNinja13/cs149.git
+   31  mkdir WS_bonus
+   32  cd WS_bonus
+   33  wget -O out.pdf https://tinyurl.com/yy94jltt
+   34  history > cmds.log
